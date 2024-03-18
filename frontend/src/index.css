@@ -1,0 +1,27 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  --white: #FFFFFF;
+  --black: #000000;
+  --gray-00: #2E2E2E;
+  --gray-01: #414141;
+  --gray-02: #707070;
+  --gray-03: #A1A1A1;
+  --gray-04: #DBDBDB;
+  --gray-05: #CACACA;
+
+  --terciary: #F58220;
+  --terciary-100: #f7d3b0;
+
+  --sucess: #23A45E;
+
+  --warning: #DAAE12;
+
+  --error: #F85656;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
